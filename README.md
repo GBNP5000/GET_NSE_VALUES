@@ -8,7 +8,7 @@ what to do?
  
 SOURCE CODE :  https://bit.ly/GET_NSE_VALUES_SOURCE_CODE
  
-YOUTUBE :
+YOUTUBE :  https://youtu.be/s-fnrgicijI
   
 SYSTEM-DETAILS : WINDOWS 10 [64 BITS ]
 
