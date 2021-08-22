@@ -9,7 +9,7 @@ what to do?
  
 SOURCE CODE :  https://bit.ly/GET_NSE_VALUES_SOURCE_CODE
  
-YOUTUBE :  https://youtu.be/s-fnrgicijI
+YOUTUBE :  https://youtu.be/2E--QHA5DFo
   
 SYSTEM-DETAILS : WINDOWS 10 [64 BITS ]
 
