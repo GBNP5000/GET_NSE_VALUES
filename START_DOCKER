@@ -1,0 +1,16 @@
+\nseval>docker run -p 8050:8050 scrapinghub/splash
+2021-08-29 16:23:19+0000 [-] Log opened.
+2021-08-29 16:23:20.671784 [-] Xvfb is started: ['Xvfb', ':693934705', '-screen', '0', '1024x768x24', '-nolisten', 'tcp']
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-splash'
+2021-08-29 16:23:32.433701 [-] Splash version: 3.5
+2021-08-29 16:23:43.902743 [-] Qt 5.14.1, PyQt 5.14.2, WebKit 602.1, Chromium 77.0.3865.129, sip 4.19.22, Twisted 19.7.0, Lua 5.2
+2021-08-29 16:23:43.903554 [-] Python 3.6.9 (default, Jul 17 2020, 12:50:27) [GCC 8.4.0]
+2021-08-29 16:23:43.904246 [-] Open files limit: 1048576
+2021-08-29 16:23:43.904559 [-] Can't bump open files limit
+2021-08-29 16:23:44.288762 [-] proxy profiles support is enabled, proxy profiles path: /etc/splash/proxy-profiles
+2021-08-29 16:23:44.289233 [-] memory cache: enabled, private mode: enabled, js cross-domain access: disabled
+2021-08-29 16:23:51.562112 [-] verbosity=1, slots=20, argument_cache_max_entries=500, max-timeout=90.0
+2021-08-29 16:23:51.562482 [-] Web UI: enabled, Lua: enabled (sandbox: enabled), Webkit: enabled, Chromium: enabled
+2021-08-29 16:23:51.586436 [-] Site starting on 8050
+2021-08-29 16:23:51.586704 [-] Starting factory <twisted.web.server.Site object at 0x7f58f416c5c0>
+2021-08-29 16:23:51.587363 [-] Server listening on http://0.0.0.0:8050
