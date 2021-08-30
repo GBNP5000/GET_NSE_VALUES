@@ -13,7 +13,10 @@ what to do?
 
 SOURCE CODE :  https://bit.ly/GET_NSE_VALUES_SOURCE_CODE
  
-YOUTUBE :  https://youtu.be/2E--QHA5DFo
+YOUTUBE :  
+
+          PART 1 : https://youtu.be/2E--QHA5DFo
+          PART 2 : https://youtu.be/8F2LnxnYCFw          
   
 SYSTEM-DETAILS : WINDOWS 10 [64 BITS ]
 
